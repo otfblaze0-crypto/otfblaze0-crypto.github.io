@@ -1,0 +1,15 @@
+otf-blaze/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── books/
+│   ├── hacking-basics.pdf
+│   ├── advanced-exploitation.pdf
+│   └── network-security.pdf
+├── images/
+│   ├── logo.png
+│   ├── hero-bg.jpg
+│   └── book-covers/
+└── README.md
